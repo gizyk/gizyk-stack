@@ -13,6 +13,7 @@
     "webpack": "^3.0.0",
     "webpack-stream": "^3.2.0"
   },
+  "homepage": "https://gizyk.github.io/gizyk-stack",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
