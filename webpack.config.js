@@ -18,11 +18,4 @@ module.exports = {
     resolve: {
         modules: ["node_modules"]
     },
-    plugins: [
-        new webpack.optimize.UglifyJsPlugin({
-            compress: {
-                warnings: false
-            }
-        })
-    ]
 };

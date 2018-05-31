@@ -6,12 +6,12 @@
     "browser-sync": "^2.24.4",
     "gh-pages": "^1.1.0",
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^3.1.1",
+    "gulp-autoprefixer": "^5.0.0",
     "gulp-clean-css": "^3.0.4",
     "gulp-rename": "^1.2.2",
-    "gulp-sass": "^3.1.0",
-    "webpack": "^3.0.0",
-    "webpack-stream": "^3.2.0"
+    "gulp-sass": "^4.0.1",
+    "webpack": "^4.10.2",
+    "webpack-stream": "^4.0.3"
   },
   "homepage": "https://gizyk.github.io/gizyk-stack",
   "scripts": {
